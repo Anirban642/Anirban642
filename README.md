@@ -11,9 +11,9 @@
   <a href="https://github.com/Anirban642" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://adportfolio-zeta.vercel.app/" target="_blank">
+<!--   <a href="https://adportfolio-zeta.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-grey?style=flat&logo=vercel" />
-  </a>
+  </a> -->
 </p>
 
 ---

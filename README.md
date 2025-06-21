@@ -2,10 +2,18 @@
 <h3 align="center">Full Stack Developer | B.Tech CSE @ SVU | MERN & AI Enthusiast</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anirban64237/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
-  <a href="mailto:anirbandas64237@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail" /></a>
-  <a href="https://github.com/Anirban642"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" /></a>
-  <a href="https://adportfolio-zeta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-grey?style=flat&logo=vercel" /></a>
+  <a href="https://www.linkedin.com/in/anirban64237/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:anirbandas64237@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/Anirban642" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://adportfolio-zeta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-grey?style=flat&logo=vercel" />
+  </a>
 </p>
 
 ---
@@ -20,7 +28,7 @@
 
 ### 💼 Tech Stack
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,bootstrap,python,java,c,mongodb,mysql,git,github,vscode,postman" />
 </p>
 
@@ -28,15 +36,15 @@
 
 ### 🧠 Coding Profiles
 
-<p>
-  <a href="https://leetcode.com/u/anirbandas64237/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+<p align="left">
+  <a href="https://leetcode.com/u/anirbandas64237/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" />
   </a>
-  <a href="https://www.hackerrank.com/profile/anirbandas64237">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" />
+  <a href="https://www.hackerrank.com/profile/anirbandas64237" target="_blank">
+    <img src="https://skillicons.dev/icons?i=hackerrank" />
   </a>
-  <a href="https://www.codechef.com/users/ad_coder_642">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" />
+  <a href="https://www.codechef.com/users/ad_coder_642" target="_blank">
+    <img src="https://skillicons.dev/icons?i=codechef" />
   </a>
 </p>
 

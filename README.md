@@ -21,7 +21,23 @@
 ### 💼 Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,bootstrap,python,java,c,cpp,mongodb,mysql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,tailwind,bootstrap,python,java,c,mongodb,mysql,git,github,vscode,postman" />
+</p>
+
+---
+
+### 🧠 Coding Profiles
+
+<p>
+  <a href="https://leetcode.com/u/anirbandas64237/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/anirbandas64237">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/ad_coder_642">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -51,4 +67,3 @@
 ---
 
 > *"Code like poetry should be short and meaningful."* — Me, probably 😄
-

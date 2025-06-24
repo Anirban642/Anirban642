@@ -1,6 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Anirban Das</h1>
 <h3 align="center">Full Stack Developer | B.Tech CSE @ SVU | MERN & AI Enthusiast</h3>
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=Anirban642&label=Profile+Views&color=blue&style=flat" alt="Anirban642" />
+</p>
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/anirban64237/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />

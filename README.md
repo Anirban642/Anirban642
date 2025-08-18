@@ -58,7 +58,7 @@
 
 ### 🛠️ Projects
 - 🌀 [**CryptoWeather Nexus**](https://crypto-weather-nexus--beta.vercel.app/) — Crypto + Weather dashboard with real-time APIs
-- 🍅 [**Tomato App**](https://tomato-react.vercel.app/) — MERN food delivery platform
+- 🍅 [**Tomato App**]([https://tomato-react.vercel.app/](https://food-del-frontend-19e4.onrender.com)) — MERN food delivery platform
 - 🤖 [**AI Chatbot Web App**](https://anirban642.github.io/gemini-react/) — Gemini API powered chatbot
 - 🌐 [**Portfolio**](https://adportfolio-zeta.vercel.app/) — Built with React, deployed on Vercel
 

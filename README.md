@@ -24,7 +24,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 B.Tech in Computer Science, Swami Vivekananda University (2023–27) — CGPA: 9.17
+- 🎓 B.Tech in Computer Science, Swami Vivekananda University (2023–27) — CGPA: 9.07
 - 💻 Currently Full Stack Intern @ **AGREM ORGANIC**
 - 🔧 Ex-Intern @ **Apexplanet (Frontend)** & **Techsonix (Flask Backend)**
 - 🌱 Learning: Next.js, MongoDB, and AI integrations

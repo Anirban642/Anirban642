@@ -25,7 +25,7 @@
 
 ### 🚀 About Me
 - 🎓 B.Tech in Computer Science, Swami Vivekananda University (2023–27) — CGPA: 9.07
-- 💻 Currently Technical Associate Intern @ **BASSETTI India**
+- 💻 Currently Technical Associate Intern @**BASSETTI India**
 - 🔧 Ex-Intern @**Digital Guruji(Full Stack)** & @**Agrem Organic (MERN Developer)**
 - 🌱 Learning: Next.js, MongoDB, and AI integrations
 

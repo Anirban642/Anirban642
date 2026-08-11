@@ -25,8 +25,8 @@
 
 ### 🚀 About Me
 - 🎓 B.Tech in Computer Science, Swami Vivekananda University (2023–27) — CGPA: 9.07
-- 💻 Currently Full Stack Intern @ **DIGITAL GURUJI**
-- 🔧 Ex-Intern @ **AGREM ORGANIC(Full Stack)** & **Techsonix (Flask Backend)**
+- 💻 Currently Technical Associate Intern @ **BASSETTI India**
+- 🔧 Ex-Intern @ **Digital Guruji(Full Stack)** & **Agrem Organic (MERN Developer)**
 - 🌱 Learning: Next.js, MongoDB, and AI integrations
 
 ---
@@ -57,15 +57,15 @@
 ---
 
 ### 🛠️ Projects
-- 🌀 [**CryptoWeather Nexus**](https://crypto-weather-nexus--beta.vercel.app/) — Crypto + Weather dashboard with real-time APIs
 - 🍅 [**Tomato App**](https://food-del-frontend-19e4.onrender.com) — MERN food delivery platform
-- 🤖 [**AI Chatbot Web App**](https://anirban642.github.io/gemini-react/) — Gemini API powered chatbot
+- 🌀 [**CryptoWeather Nexus**](https://crypto-weather-nexus--beta.vercel.app/) — Crypto + Weather dashboard with real-time APIs
+- 🤖 [**Nexa AI**](https://anirban642.github.io/gemini-react/) — Gemini API powered chatbot
 - 🌐 [**Portfolio**](https://adportfolio-zeta.vercel.app/) — Built with React, deployed on Vercel
 
 ---
 
 ### 📜 Certifications
-- 🎓 NPTEL: Python, C++, DAA (IITs)
+- 🎓 NPTEL: Python, C++, DAA (IITs), Software Engineering
 - 💡 Gen AI by Microsoft + LinkedIn
 - 🤖 AI by Infosys Springboard
 

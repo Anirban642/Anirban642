@@ -98,10 +98,10 @@ Food delivery platform — auth, cart, Stripe, admin dashboard
 <td width="50%" valign="top">
 
 **🤖 Nexa AI**
-AI chatbot with custom React UI, powered by the Gemini API
-<img src="https://img.shields.io/badge/React-informational?style=flat-square"/> <img src="https://img.shields.io/badge/Gemini_API-informational?style=flat-square"/>
+AI chatbot with custom React UI, powered by the Groq API
+<img src="https://img.shields.io/badge/React-informational?style=flat-square"/> <img src="https://img.shields.io/badge/Groq_API-informational?style=flat-square"/>
 <br>
-<a href="https://anirban642.github.io/gemini-react/"><img src="https://img.shields.io/badge/▶_Live_Demo-2c5364?style=for-the-badge"/></a>
+<a href="https://nexa-react.vercel.app/"><img src="https://img.shields.io/badge/▶_Live_Demo-2c5364?style=for-the-badge"/></a>
 <a href="https://github.com/Anirban642/gemini-react"><img src="https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </td>

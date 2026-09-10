@@ -1,212 +1,133 @@
-<h1 align="center">Hi 👋, I'm Anirban Das</h1>
+<div align="center">
 
-<h3 align="center">Full Stack Developer • AI-Powered Applications • MERN • Next.js</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=180&section=header&text=Anirban%20Das&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI-Powered%20Applications&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://adportfolio-zeta.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/anirban64237/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:anirbandas64237@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/Anirban642"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=Anirban642&label=Profile%20Views&color=2c5364&style=flat"/>
+
+</div>
+
+---
+
+### 🧑‍💻 About
+
+Final-year B.Tech CSE student & Full Stack Developer building AI-powered, production-ready web apps. 700+ LeetCode problems solved · 1650+ contest rating.
 
 <p align="center">
-  <a href="https://adportfolio-zeta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/anirban64237/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:anirbandas64237@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Anirban642" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anirban642&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://skillicons.dev/icons?i=js,python,java,c,react,nextjs,nodejs,express,flask,mongodb,mysql,tailwind,git,github,postman,figma,vercel,netlify"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+### 🚀 Projects
 
-I'm a **Full Stack Developer** and final-year B.Tech Computer Science Engineering student focused on building modern, scalable, user-centric web applications.
+<table align="center">
+<tr>
+<td width="50%">
 
-I work across the full development lifecycle — interfaces, APIs, database architecture, third-party integrations, AI features, and deployment.
+**🧵 TextileMarket**
+AI-powered B2B textile sourcing — NL & voice search, supplier discovery
+<a href="https://textile-marketplace-sigma.vercel.app/"><img src="https://img.shields.io/badge/Live-2c5364?style=flat-square&logo=vercel&logoColor=white"/></a>
 
-- 🎓 B.Tech CSE @ Swami Vivekananda University (2023–2027)
-- 💼 Technical Associate Intern @ **BASSETTI India**
-- 🚀 Former Full Stack Developer Intern @ **Digital Guruji**
-- 💻 Former Full Stack Developer Intern @ **Agrem Organic**
-- 🐍 Former Python Developer Intern @ **Techsonix Solutions**
-- 🧠 Strong interest in Full Stack Development, AI & Software Engineering
-- 🔥 700+ DSA problems solved on LeetCode
-- 🏆 1650+ LeetCode contest rating
-- 🛠️ Building real-world apps with React, Next.js, Node.js, Python and AI APIs
+</td>
+<td width="50%">
 
----
+**🧩 NOVA**
+Full-stack team productivity platform with REST APIs
+<a href="https://nova-pm.vercel.app/"><img src="https://img.shields.io/badge/Live-2c5364?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Anirban642/nova-product-management"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
-## ⚡ What I Build
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-```text
-Frontend        → React • Next.js • JavaScript • Tailwind CSS
-Backend         → Node.js • Express.js • Python • Flask
-Database        → MongoDB • MySQL
-APIs            → REST APIs • WebSockets • Third-party APIs
-AI              → Gemini API • Hugging Face • AI-powered search • AI integrations
-Payments        → Stripe
-Platform        → Shopify • Liquid
-Tools           → Git • GitHub • Postman • VS Code • Figma
-Deployment      → Vercel • Render • Netlify
-```
+**🌦️ CryptoWeather Nexus**
+Real-time crypto + weather dashboard — Next.js, Redux, WebSockets
+<a href="https://crypto-weather-nexus--beta.vercel.app/"><img src="https://img.shields.io/badge/Live-2c5364?style=flat-square&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/Anirban642/cryptoWeather-nexus"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
----
+</td>
+<td width="50%">
 
-## 🚀 Featured Projects
+**🍅 Tomato**
+MERN food delivery — auth, cart, Stripe, admin dashboard
+<a href="https://food-del-frontend-19e4.onrender.com/"><img src="https://img.shields.io/badge/Live-2c5364?style=flat-square&logo=render&logoColor=white"/></a>
+<a href="https://github.com/Anirban642/tomato-react"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
-### 🧵 TextileMarket — AI-Powered B2B Textile Sourcing
-AI-powered B2B textile sourcing platform connecting buyers with suppliers, with natural-language and voice-enabled product discovery.
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-**Highlights:** Natural-language AI search • Voice search • Verified supplier discovery • Smart filters • Buyer & supplier dashboards • Order management
+**🤖 Nexa AI**
+Gemini-powered AI chatbot with custom React UI
+<a href="https://anirban642.github.io/gemini-react/"><img src="https://img.shields.io/badge/Live-2c5364?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/Anirban642/gemini-react"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
-🔗 Live: https://textile-marketplace-sigma.vercel.app/
-
----
-
-### 🧩 NOVA — Team Productivity Platform
-Full-stack project and team management platform with a responsive frontend, backend REST APIs, and production deployment.
-
-🔗 Live: https://nova-pm.vercel.app/
-🔗 API: https://nova-api-886o.onrender.com/
-🔗 GitHub: https://github.com/Anirban642/nova-product-management
-
----
-
-### 🌦️ CryptoWeather Nexus
-Real-time dashboard combining live cryptocurrency data and location-based weather, built with Next.js, Redux, and WebSockets.
-
-**Stack:** Next.js • React • Redux • Tailwind CSS • REST APIs • WebSockets
-
-🔗 Live: https://crypto-weather-nexus--beta.vercel.app/
-🔗 GitHub: https://github.com/Anirban642/cryptoWeather-nexus
+</td>
+<td width="50%"></td>
+</tr>
+</table>
 
 ---
 
-### 🍅 Tomato — Full Stack Food Delivery Platform
-MERN-based food delivery app with full user, order, payment, and admin workflows.
+<details>
+<summary>💼 <b>Experience</b></summary>
+<br>
 
-**Features:** Authentication • Dynamic menu system • Cart & checkout • Stripe payments • Admin dashboard • Order history • Responsive UI
+- **BASSETTI India** — Technical Associate Intern *(Current)*
+- **Digital Guruji** — Full Stack Developer Intern (Shopify, Node.js, AI integrations)
+- **Agrem Organic** — Full Stack Developer Intern (MERN)
+- **Techsonix Solutions** — Python Developer Intern (Flask)
 
-🔗 Live: https://food-del-frontend-19e4.onrender.com/
-🔗 GitHub: https://github.com/Anirban642/tomato-react
+</details>
 
----
+<details>
+<summary>📜 <b>Certifications</b></summary>
+<br>
 
-### 🤖 Nexa AI
-AI chatbot application powered by the Gemini API with a custom React interface.
+- The Joy of Computing Using Python — NPTEL / IIT Madras
+- Programming in Modern C++ — NPTEL / IIT Kharagpur
+- Design and Analysis of Algorithms — NPTEL / IIT Madras
+- Software Engineering — NPTEL
+- Generative AI — Microsoft & LinkedIn
+- Additional certifications — Infosys Springboard
 
-🔗 Live: https://anirban642.github.io/gemini-react/
-🔗 GitHub: https://github.com/Anirban642/gemini-react
+</details>
 
----
+<details>
+<summary>🏆 <b>Achievements</b></summary>
+<br>
 
-## 🛠️ Technical Skills
+- 700+ DSA problems solved, 1650+ LeetCode contest rating
+- Smart India Hackathon (SIH) & multiple college hackathon participant
+- Certificate of Appreciation — Humanity Founders
+- Built & deployed multiple full-stack, AI-integrated applications
 
-**Languages**
-<p><img src="https://skillicons.dev/icons?i=javascript,python,java,c" /></p>
-
-**Frontend**
-<p><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" /></p>
-
-**Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,python,flask" /></p>
-
-**Databases**
-<p><img src="https://skillicons.dev/icons?i=mongodb,mysql" /></p>
-
-**Tools & Platforms**
-<p><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify" /></p>
-
-**Other:** REST APIs • WebSockets • Stripe • Shopify • Liquid • API Integration
+</details>
 
 ---
 
-## 💼 Professional Experience
+<div align="center">
 
-**Technical Associate Intern — BASSETTI India** *(Current)*
-Gaining hands-on experience in professional software development and engineering workflows.
+<a href="https://leetcode.com/u/anirbandas64237/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://www.hackerrank.com/profile/anirbandas64237"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
+<a href="https://www.codechef.com/users/ad_coder_642"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
-**Full Stack Developer Intern — Digital Guruji**
-Custom Shopify applications and full-stack e-commerce solutions.
-Technologies: JavaScript • Liquid • Node.js • APIs • Shopify • AI Integrations
+<br><br>
 
-**Full Stack Developer Intern — Agrem Organic** *(Jun–Aug 2025)*
-Real-world MERN applications, frontend/backend development, UI prototyping and deployment.
-Technologies: MongoDB • Express.js • React • Node.js • Figma • Vercel • Netlify • Render
+<img src="https://github-readme-stats.vercel.app/api?username=Anirban642&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Anirban642&theme=tokyonight&hide_border=true" height="165"/>
 
-**Python Developer Intern — Techsonix Solutions** *(Apr–May 2025)*
-Python/Flask-based applications and backend development.
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirban642&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=Anirban642&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
 
-## 🧩 Problem Solving
+</div>
 
-🔥 700+ Problems Solved • 🏆 1650+ Contest Rating • 📚 DSA & Competitive Programming
-
-<p>
-  <a href="https://leetcode.com/u/anirbandas64237/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/anirbandas64237" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-  <a href="https://www.codechef.com/users/ad_coder_642" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📜 Certifications
-
-- 🎓 The Joy of Computing Using Python — NPTEL / IIT Madras
-- 💻 Programming in Modern C++ — NPTEL / IIT Kharagpur
-- 🧠 Design and Analysis of Algorithms — NPTEL / IIT Madras
-- ⚙️ Software Engineering — NPTEL
-- 🤖 Generative AI — Microsoft & LinkedIn
-- 💡 Additional certifications — Infosys Springboard
-
----
-
-## 🏆 Achievements
-
-- 🔥 Solved 700+ DSA problems on LeetCode, 1650+ contest rating
-- 💻 Participated in multiple college hackathons, including Smart India Hackathon (SIH)
-- 📜 Certificate of Appreciation from Humanity Founders
-- 🚀 Built and deployed multiple full-stack applications
-- 🤖 Built applications integrating AI APIs and intelligent workflows
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anirban642&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Anirban642&theme=tokyonight&hide_border=true" height="170" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirban642&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://adportfolio-zeta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/anirban64237/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:anirbandas64237@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center"><i>Building useful products, solving hard problems, and continuously learning.</i></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:0f2027&height=100&section=footer" width="100%"/>

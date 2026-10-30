@@ -150,7 +150,7 @@ AI chatbot with custom React UI, powered by the Groq API
 
 <div align="center">
 
-<a href="https://leetcode.com/u/anirbandas642/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="https://leetcode.com/u/anirban642/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://www.hackerrank.com/profile/anirbandas64237"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 <a href="https://www.codechef.com/users/ad_coder_642"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/></a>
 
